@@ -1,0 +1,24 @@
+{
+  "name": "app-oficial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodr1go258/app-oficial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/rodr1go258/app-oficial/issues"
+  },
+  "homepage": "https://github.com/rodr1go258/app-oficial#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
