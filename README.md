@@ -11,3 +11,7 @@ Proyecto integrador — Grupo 5
 ## Estado
 Hotfix aplicado: corrección de configuración inicial.
 
+# app oficial 
+## changelog
+[Alex] Docs 
+add colaborator -readme
