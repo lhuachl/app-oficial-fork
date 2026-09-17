@@ -3,7 +3,7 @@ const { Router } = require('express');
 const router = Router();
 
 router.get('/', (req, res) => {
-  res.send('App Oficial - Grupo 5 funcionando correctamente 🚀');
+  res.send('Bienvenidos a la App Oficial del Grupo 5 🚀');
 });
 
 router.get('/saludo', (req, res) => {
